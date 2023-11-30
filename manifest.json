@@ -1,3 +1,9 @@
 {
-  "name": "cloud-custom-rules-demo"
+  "name": "cloud-custom-rules-demo",
+  "push": [
+    {
+      "custom_rules_id": "99b7ff11-6d67-4224-a0a1-794d2c32d955",
+      "organization_id": "f84edda3-a197-4214-90b7-0c3f6823925f"
+    }
+  ]
 }
